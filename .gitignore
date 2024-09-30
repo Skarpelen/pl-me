@@ -1,0 +1,12 @@
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.cache
+*.log
+*.tmp
+
+# Build files
+/bin/
+/obj/
